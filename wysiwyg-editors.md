@@ -5,7 +5,7 @@ h2. Lightweight versions
 * WysiHat (Prototype) [github.com/37signals/wysihat](http://github.com/37signals/wysihat)
 * widgEditor [code.google.com/p/widgeditor/](http://code.google.com/p/widgeditor/)
 * WYMeditor (jQuery) [www.wymeditor.org/](http://www.wymeditor.org/)
-* jWYSIWYG (jQuery) "https://github.com/akzhan/jwysiwyg":https://github.com/akzhan/jwysiwyg
+* jWYSIWYG (jQuery) [github.com/akzhan/jwysiwyg](https://github.com/akzhan/jwysiwyg)
 * ggEdit (MooTools) [code.google.com/p/ggedit/](http://code.google.com/p/ggedit/)
 * YUI Rich Text Editor - SimpleEditor (YUI) [developer.yahoo.com/yui/editor/](http://developer.yahoo.com/yui/editor/)
 * uEditor (jQuery) [www.upian.com/upiansource/ueditor/en/](http://www.upian.com/upiansource/ueditor/en/)
@@ -19,11 +19,11 @@ h2. Lightweight versions
 * TinyEditor (jQuery) [www.leigeber.com/2010/02/javascript-wysiwyg-editor/](http://www.leigeber.com/2010/02/javascript-wysiwyg-editor/)
 * dijit.Editor (Dojo) [www.dojotoolkit.org/reference-guide/dijit/Editor.html](http://www.dojotoolkit.org/reference-guide/dijit/Editor.html)
 * CLEditor (jQuery) [premiumsoftware.net/cleditor/](http://premiumsoftware.net/cleditor/)
-* wysihtml5 "https://github.com/xing/wysihtml5":https://github.com/xing/wysihtml5
+* wysihtml5 [github.com/xing/wysihtml5](https://github.com/xing/wysihtml5)
 * WYSIWYG (jQuery) [maccman.github.com/wysiwyg/](http://maccman.github.com/wysiwyg/)
 * Redactor (jQuery) [redactorjs.com/](http://redactorjs.com/)
-* SimpleHtml5Editor (ZeptoJs and coffeescript): "https://github.com/TheOtherNet/simpleHtml5Editor":https://github.com/TheOtherNet/simpleHtml5Editor
-* bootstrap-wysiwyg (jQuery) "https://github.com/mindmup/bootstrap-wysiwyg/":https://github.com/mindmup/bootstrap-wysiwyg/
+* SimpleHtml5Editor (ZeptoJs and coffeescript): [github.com/TheOtherNet/simpleHtml5Editor](https://github.com/TheOtherNet/simpleHtml5Editor)
+* bootstrap-wysiwyg (jQuery) [github.com/mindmup/bootstrap-wysiwyg/](https://github.com/mindmup/bootstrap-wysiwyg/)
 
 h2. Heavyweights
 
