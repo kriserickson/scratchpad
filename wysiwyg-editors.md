@@ -8,7 +8,7 @@ h2. Lightweight versions
 * jWYSIWYG (jQuery) [github.com/akzhan/jwysiwyg](https://github.com/akzhan/jwysiwyg)
 * ggEdit (MooTools) [code.google.com/p/ggedit/](http://code.google.com/p/ggedit/)
 * YUI Rich Text Editor - SimpleEditor (YUI) [developer.yahoo.com/yui/editor/](http://developer.yahoo.com/yui/editor/)
-* uEditor (jQuery) [www.upian.com/upiansource/ueditor/en/](http://www.upian.com/upiansource/ueditor/en/)
+* uEditor (jQuery) [github.com/laoqiu/uEditor](https://github.com/laoqiu/uEditor)
 * Loki [code.google.com/p/loki-editor/](http://code.google.com/p/loki-editor/)
 * MooRTE (MooTools) [github.com/siteroller/moorte](http://github.com/siteroller/moorte)
 * WMD - Markdown Editor [wmd-editor.com/](http://wmd-editor.com/)
